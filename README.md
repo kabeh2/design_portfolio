@@ -20,14 +20,16 @@ I will be displaying 4 different projects in my portfolio:
 
 ## Other Design Examples
 
-In the [Other Design Examples](other_design_examples/) folder I give examples of some of the graphic design work I've also done for many companies.
+In the [Other Design Examples](other_design_examples/) folder I give examples of some of the graphic design work I've also done for many companies. Please allow some time for these files to load as they are around 5mb pdfs.
 
 - [Infographic Example](other_design_examples/infographic_examples/infograph_example.pdf): This infograph was used to market to potential new home buyers and helped their company not only gain more buyers, but also land big strategic partnerships with banks and more.
 
 - [Infographic Pitch Deck](other_design_examples/infographic_examples/old_pitch_deck_infographic/pitch_deck_mestau.pdf): This pitch deck was designed as an infograph to make the content as easy to read as possible while being visually stimulating. This pitch deck allowed the client to attract many interested Angel Investors at the time.
 
-- [Branding Examples](other_design_examples/branding_examples/branding_portfolio.pdf): This file gives a sample of some of the many clients that trusted me to create their branding. From logos and business cards, to document templates and print/digital marketing materials, I was always able to go over the client's scope and produce quality work within their timelines.
+- [Branding Examples](other_design_examples/branding_examples/Branding_Portfolio.pdf): This file gives a sample of some of the many clients that trusted me to create their branding. From logos and business cards, to document templates and print/digital marketing materials, I was always able to go over the client's scope and produce quality work within their timelines.
 
 ### Contact
 
-If any of my work or skills interests you, and you want to connect, feel free to email me at mailto:mattcnk@hotmail.com
+If any of my work or skills interest you, and you want to connect, feel free to email me at mattcnk@hotmail.com
+
+Thank you for your time!
