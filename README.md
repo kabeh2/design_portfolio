@@ -30,6 +30,6 @@ In the [Other Design Examples](other_design_examples/) folder I give examples of
 
 ### Contact
 
-If any of my work or skills interest you, and you want to connect, feel free to email me at mattcnk@hotmail.com
+If any of my work or skills interest you, and you want to connect, feel free to email me at matthew@kabeh2.com
 
 Thank you for your time!
